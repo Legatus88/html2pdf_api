@@ -22,12 +22,6 @@ sudo apt-get install xvfb
 
 For more modern versions update this packages.
 
-Delete **Gemfile.lock** and run:
-
-```ruby
-bundle install
-```
-
 ## Usage
 
 To run this application select free port and use command(8083 in this example is a port):
