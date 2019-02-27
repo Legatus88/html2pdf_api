@@ -12,7 +12,7 @@ If you have ubuntu 14.04 you need to install this tool:
 sudo dpkg -i wkhtmltox-0.12.2_linux-trusty-amd64.deb
 ```
 
-And this:
+And this packages:
 
 ```ruby
 sudo apt-get install wkhtmltopdf
@@ -20,7 +20,7 @@ sudo apt-get install openssl build-essential xorg libssl-dev
 sudo apt-get install xvfb
 ```
 
-For more modern versions update this packages.
+For more modern versions just install packages.
 
 ## Usage
 
